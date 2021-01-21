@@ -24,7 +24,6 @@ My4thTest
     Log    Hello World 4...
 
 
-
 # FirstSeleniumTest
     # Open Browser    https://google.com    chrome
     # # Wait for 5 secs for browser to load
